@@ -18,10 +18,8 @@ export default function About(props) {
 
             
             <p className="text-zinc-300 text-base md:text-xl leading-relaxed">
-              Welcome! I&apos;m Dhruv Moses Vats, I am a passionate BCA student with strong learning skills and a solid foundation in HTML, Tailwind CSS, JavaScript, and React.js. I actively build high-quality projects to enhance my skills and stay updated with modern web development trends. I'm now looking for an opportunity to contribute to a dynamic company where I can grow and apply my knowledge effectively.
+              Welcome! I&apos;m Dhruv Moses Vats, I am a passionate developer with strong learning skills and a solid foundation in JavaScript, React.js and Data Structures & Algorithms. I actively build high-quality projects to enhance my skills and stay updated with modern web development trends. I'm now looking for an opportunity to contribute to a dynamic company where I can grow and apply my knowledge effectively.
             </p>
-
-            
           </div>
         </div>
       </section>

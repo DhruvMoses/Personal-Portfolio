@@ -9,6 +9,10 @@ export default function Skill(props) {
                 label: 'Java',
             },
             {
+                imgSrc: '/dataStructure.svg',
+                label: 'Data Structures & Algorithms',
+            },
+            {
                 imgSrc: '/python.svg',
                 label: 'Python',
             },
@@ -18,7 +22,7 @@ export default function Skill(props) {
             },
             {
                 imgSrc: '/css3.svg',
-                label: 'CCS',
+                label: 'CSS',
             },
             {
                 imgSrc: '/tailwindcss.svg',

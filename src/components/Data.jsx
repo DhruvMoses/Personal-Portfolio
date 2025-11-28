@@ -20,15 +20,23 @@ const Data = [
         icon: "fas fa-graduation-cap",
         year: "2022 - 2025",
         title: "Bachelors Degree",
-        desc: "Completed my Bachelors in Bachelors of Computer Applications",
+        desc: "Completed my Bachelors of Computer Applications",
     },
     {
         id: 4,
+        category: "education",
+        icon: "fas fa-graduation-cap",
+        year: "2025 - 2027",
+        title: "Masters Degree",
+        desc: "Currently pursuing my Masters of Computer Applications",
+    },
+    {
+        id: 5,
         category: "experience",
         icon: "fas fa-briefcase",
         year: "2020 - 2021",
         title: "Software - Engineer",
-        desc: "Worked in Western Union and worked as a front-end developer in ReactJS. And handled backend API Spiking's",
+        desc: "Worked in Western Union and worked as a front-end developer in ReactJS and also handled backend API Spiking's along with some support work using tools like jira and splunk",
     },
 ];
 
