@@ -39,7 +39,7 @@ export default function Home(props) {
                         <h2 className="headline-1 text-5xl leading-tight font-semibold lg:text-[55px]
                         lg:leading-[1.15] max-w-[15ch] sm:max-w-[20ch] lg:max-w-[15ch] mt-5 mb-8 lg:mb-10">
                             Hi, I'm <br />Dhruv Moses <br /> 
-                            <br />Software Developer <br /> 
+                            Software Developer <br /> 
                         </h2>
                         <div className="flex items-center gap-4 cursor-pointer">
                             <ButtonPrimary
